@@ -1,0 +1,75 @@
+.ex{
+
+text-align: right;
+font-size:15px;
+font-family:verdana;
+
+}
+.tb{
+	float:center;
+}
+h2{
+text-align:center;
+font-family:verdana;
+font-variant:small-caps;
+}
+h1{
+font-family:verdana;
+font-variant:small-caps;
+text-align:center;
+}
+table{
+	width:50%;
+	height:200px;
+}
+table td th{
+	height:10px;
+}
+table td{
+	font-family:verdana;
+	text-align:center;
+	
+}
+table a{
+	
+	text-decoration:none;
+	text-color:#090fad;
+	
+}
+.back{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+	
+}
+.fetch{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+	
+}
+.success{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+	text-align:center;
+}
+.success a{
+	
+	text-decoration:none;
+	font-size:20px;
+}.view{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+	font-family:verdana;
+	font-size:20px;
+	
+}
+#un{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+	font-family:verdana;
+}
+.fetch{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+	
+}
+.fetchall{
+	text-decoration:none;
+	float:80px;
+}
+.update{
+	background: linear-gradient(to left, #a3e6f5,#b763bd);
+}
