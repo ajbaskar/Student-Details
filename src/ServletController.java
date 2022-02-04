@@ -64,7 +64,7 @@ public class ServletController extends HttpServlet {
 			RegisterAction ra=new RegisterAction();
 			
 			boolean status=ra.register(b);
-
+			//Redirect
 			if(status){
 			RequestDispatcher rd=getServletContext().getRequestDispatcher("/success.jsp");
 			rd.forward(request, response);
